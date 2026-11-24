@@ -109,7 +109,7 @@ static void test_fastest(void)
     Route r;
     char path[1024];
 
-    /* Değerler veri hazırlanırken Python ile bağımsız hesaplanan sonuçlarla aynı */
+    /* Değerler veri hazırlanırken ayrı bir hesaplamayla elde edilen sonuçlarla aynı */
     CHECK(route_fastest(&g_net, stop("Kadıköy"), stop("Ümraniye"), &r));
     CHECK(NEAR(r.total_min, 60.7));
     CHECK(r.transfers == 2);
