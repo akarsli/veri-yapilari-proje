@@ -2,6 +2,10 @@
 
 İstanbul Anadolu yakasındaki **M4, M5 ve M8** metro hatları üzerinde rota hesaplayan, C ile yazılmış bir komut satırı uygulaması. Veri Yapıları ve Algoritmalar dersi final projesi.
 
+![M4, M5 ve M8 hat haritası](docs/harita.png)
+
+*57 istasyon; aktarma noktaları Kozyatağı (M4–M8) ve Dudullu (M5–M8). Bostancı'da iki hattın istasyonu ~1,6 km ayrı olduğu için yürüme aktarması olarak modellendi.*
+
 ```
 Kadıköy -> Ümraniye
 Toplam 60.7 dk  (yolculuk 42.2 + bekleme 8.5 + yurume 10.0)  |  2 aktarma  |  22.5 km  |  ort. yogunluk 2.7/5
