@@ -1,0 +1,4 @@
+line_id,name,type,color,headway_min,total_min,air_km
+M4,Kadıköy - Sabiha Gökçen Havalimanı,METRO,#E91E76,5,52,31.47
+M5,Üsküdar - Sultanbeyli,METRO,#682C88,6,50,26.07
+M8,Bostancı - Parseller,METRO,#00A0DC,6,26,13.23

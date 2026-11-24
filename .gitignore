@@ -1,0 +1,9 @@
+build/
+bin/
+.DS_Store
+~$*
+*.dSYM/
+
+# Ders materyalleri (hocanın dokümanları) depoya girmez
+Final projesi.docx
+Final projesine ait taslak.docx

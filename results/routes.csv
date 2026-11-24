@@ -1,0 +1,13 @@
+veri,durak,durum,algoritma,sorgu,ort_ms,ort_acilan_durum
+Izgara 32x32,1024,2048,Dijkstra,300,0.0485,1018.8
+Izgara 32x32,1024,2048,A*,300,0.0293,375.5
+Izgara 32x32,1024,2048,En az aktarma,300,0.0526,1620.3
+Izgara 100x100,10000,20000,Dijkstra,100,0.6506,11112.4
+Izgara 100x100,10000,20000,A*,100,0.3611,4271.0
+Izgara 100x100,10000,20000,En az aktarma,100,0.6289,16421.4
+Izgara 316x316,99856,199712,Dijkstra,20,12.6330,126059.1
+Izgara 316x316,99856,199712,A*,20,6.5757,54349.2
+Izgara 316x316,99856,199712,En az aktarma,20,10.3444,180483.2
+M4+M5+M8 (tum ciftler),57,60,Dijkstra,3249,0.0005,30.7
+M4+M5+M8 (tum ciftler),57,60,A*,3249,0.0010,25.4
+M4+M5+M8 (tum ciftler),57,60,En az aktarma,3249,0.0010,67.0

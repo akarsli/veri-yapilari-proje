@@ -1,0 +1,7 @@
+stop_id,from_line,to_line,walk_min
+7,M4,M8,6
+7,M8,M4,6
+8,M4,M8,20
+8,M8,M4,20
+37,M5,M8,4
+37,M8,M5,4
